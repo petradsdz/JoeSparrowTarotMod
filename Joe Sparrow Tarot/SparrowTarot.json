@@ -1,0 +1,22 @@
+{
+	"id": "SparrowTarot",
+	"name": "Sparrow Tarot",
+	"author": ["Petra"],
+	"description": "Joe Sparrow replacement for Tarot cards",
+	"prefix": "sparrow",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "9d71ff",
+	"badge_text_colour": "ffe471",
+	"display_name": "Sparrow Tarot",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (*)", 
+		"Lovely (*)", 
+		"malverk", 
+		"Balatro (>=1.0.1m)"],
+	"conflicts": [
+	],
+	"provides": [
+	]
+}
